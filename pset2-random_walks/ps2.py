@@ -419,7 +419,7 @@ y_label = 'Time-Steps'
 # 2) Write a function call to showPlot2 that generates an appropriately-labeled
 #     plot.
 #
-title = 'Time It Takes 1 - 10 Robots To Clean 80% Of A Room'
+title = 'Time It Takes Two Robots To Clean 80% Of Variously Shaped Rooms'
 x_label = 'Aspect Ratio'
 y_label = 'Time-Steps'
 showPlot2(title, x_label, y_label)
